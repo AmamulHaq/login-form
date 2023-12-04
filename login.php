@@ -3,7 +3,7 @@ $server="localhost";
 $username="root";
 $password="";
 $dbname="login";
-
+// to collect the data
 $connection=mysqli_connect($server,$username,$password,$dbname);
 
 if(!$connection){
