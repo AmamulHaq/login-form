@@ -6,20 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>register</title>
   <link rel="stylesheet" type="text/css" href="login.css" />
-  <style type="text/css">
-    .box {
-  position: relative;
-  width: 350px;
-  height: 420px;
-  background: transparent;
-  border-radius: 15px;
-  border: 2px solid white;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  backdrop-filter: blur(15px);
-}
-  </style>
+ 
 </head>
 
 <body>
