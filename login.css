@@ -24,11 +24,10 @@
 }
 .box {
   position: relative;
-  width: 350px;
-  height: 420px;
+  padding:50px;
   background: transparent;
   border-radius: 15px;
-  border: 2px solid white;
+  border: 2px solid rgb(197, 239, 238) ;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -37,7 +36,7 @@
 h2 {
   font-size: large;
   text-align: center;
-  color: white;
+  color: rgb(197, 239, 238);
 }
 button {
   width: 100%;
