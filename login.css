@@ -24,10 +24,10 @@
 }
 .box {
   position: relative;
-  padding:50px;
+  padding: 50px;
   background: transparent;
   border-radius: 15px;
-  border: 2px solid rgb(197, 239, 238) ;
+  border: 2px solid rgb(197, 239, 238);
   display: flex;
   justify-content: center;
   align-items: center;
@@ -45,6 +45,11 @@ button {
   border: none;
   border-radius: 42px;
   font-size: 1em;
+}
+button:hover {
+  background: transparent;
+  color: black;
+  border: 2px solid rgb(197, 239, 238);
 }
 
 .register {
@@ -72,4 +77,3 @@ button {
   justify-content: space-around;
   font-size: 0.8em;
 }
-
