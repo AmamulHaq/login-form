@@ -69,7 +69,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 
     if (mysqli_query($connection, $sql)) {
         echo ("Data inserted successfully!");
-        header("Location: index.html");
+        header("Location: index.php");
     } else {
         echo "Error: " . $sql . "<br>" . mysqli_error($connection);
     }
