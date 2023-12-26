@@ -8,11 +8,11 @@
   <link rel="stylesheet" type="text/css" href="login.css" />
 </head>
 
-<!-- login form in begining and recheking the repo, but its already been one week to push it in github .. so sadden but ok-->
+
 <body>
   <div class="background">
     <div class="box">
-      <form action="login.php" method="post" >
+      <form action="index.php" method="post" >
         <div class="form">
           <h2>LOGIN</h2>
 
