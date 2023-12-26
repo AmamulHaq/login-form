@@ -12,7 +12,7 @@
 <body>
   <div class="background">
     <div class="box">
-      <form action="index.php" method="post" >
+      <form  method="post" >
         <div class="form">
           <h2>LOGIN</h2>
 
